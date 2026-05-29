@@ -5,7 +5,7 @@
   <a href="https://adityaaazway.github.io/" target="_blank">Portfolio</a> •
   <a href="https://github.com/Adityaaazway" target="_blank">GitHub</a> •
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a> •
-  <a href="mailto:adityaapayal2003@gmail.com">Email</a>
+  <a href="mailto:adityaapayal@gmail.com">Email</a>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Created an automated reporting workflow that cleans business data, analyzes KPIs
 ## Connect With Me
 
 - **Portfolio:** [adityaaazway.github.io](https://adityaaazway.github.io/)
-- **Email:** adityaapayal2003@gmail.com
+- **Email:** adityaapayal@gmail.com
 - **LinkedIn:** [Add your LinkedIn link here](https://www.linkedin.com/)
 - **GitHub:** [github.com/Adityaaazway](https://github.com/Adityaaazway)
 
