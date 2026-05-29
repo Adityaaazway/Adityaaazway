@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://adityaaazway.github.io/" target="_blank">Portfolio</a> •
   <a href="https://github.com/Adityaaazway" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/adityaapayal/" target="_blank">LinkedIn</a> •
   <a href="mailto:adityaapayal@gmail.com">Email</a>
 </p>
 
@@ -30,9 +30,15 @@ I am also exploring generative AI as a way to improve analytics workflows, produ
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" />
@@ -72,7 +78,7 @@ Created an automated reporting workflow that cleans business data, analyzes KPIs
 
 - **Portfolio:** [adityaaazway.github.io](https://adityaaazway.github.io/)
 - **Email:** adityaapayal@gmail.com
-- **LinkedIn:** [Add your LinkedIn link here](https://www.linkedin.com/)
+- **LinkedIn:** [https://www.linkedin.com/in/adityaapayal/]([https://www.linkedin.com/](https://www.linkedin.com/in/adityaapayal/))
 - **GitHub:** [github.com/Adityaaazway](https://github.com/Adityaaazway)
 
 ---
