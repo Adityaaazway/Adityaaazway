@@ -78,7 +78,7 @@ Created an automated reporting workflow that cleans business data, analyzes KPIs
 
 - **Portfolio:** [adityaaazway.github.io](https://adityaaazway.github.io/)
 - **Email:** adityaapayal@gmail.com
-- - **LinkedIn:** [Aditya Payal](https://www.linkedin.com/in/adityaapayal/)
+- **LinkedIn:** [Aditya Payal](https://www.linkedin.com/in/adityaapayal/)
 - **GitHub:** [github.com/Adityaaazway](https://github.com/Adityaaazway)
 
 ---
